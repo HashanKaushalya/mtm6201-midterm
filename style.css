@@ -1207,6 +1207,8 @@ p.single_product_button {
 }
 
 
+
+
 /*.............To add the greyscale effect to the module when hover...............*/
 .browse_goods_single:hover {
   filter: grayscale(1);
